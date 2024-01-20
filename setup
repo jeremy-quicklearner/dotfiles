@@ -1,0 +1,7 @@
+#!/bin/bash
+
+git clone https://github.com/jeremy-quicklearner/shellrc.git ~/shellrc
+~/shellrc/setup
+
+git clone https://github.com/jeremy-quicklearner/vim.git ~/vim
+~/vim/setup

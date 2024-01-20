@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cd ~/shellrc
+git pull
+
+cd ~/vim
+git pull
